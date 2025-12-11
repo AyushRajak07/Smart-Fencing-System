@@ -4,6 +4,20 @@ A **professional-grade**, **zero-cost**, **100% local** security camera that det
 
 No cloud. No subscription. Runs at 30–100+ FPS.
 
+![9 43 28 AM](https://github.com/user-attachments/assets/54f54e4e-f01e-48a0-ac32-ec0876bc8fde)
+
+
+
+<img width="1920" height="1030" alt="Copy of Fencing_minor_1 ipynb - Colab - Google Chrome 11-12-2025 09_42_05" src="https://github.com/user-attachments/assets/b0ed860b-625b-4710-9b64-0260939a700e" />
+
+![WhatsApp Image 2025-12-11 at 9 43 28 AM](https://github.com/user-attachments/assets/bafed1f0-7668-45dd-a541-82b5c0bbf0cc)
+
+![2025-12-11 at 9 43 28 AM](https://github.com/user-attachments/assets/e3fb3d5a-06ff-4195-9aae-e9dda9294e25)
+
+
+
+
+
 ## Features
 - Full YOLOv8 (nano/small/medium) – not tiny ML
 - Live stream from ESP32-CAM
