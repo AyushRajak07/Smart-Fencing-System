@@ -3,9 +3,7 @@
 A **professional-grade**, **zero-cost**, **100% local** security camera that detects people (or anything) in real time using **full YOLOv8** on your laptop/PC with **instant notifications** on browser, desktop, and phone.
 
 No cloud. No subscription. Runs at 30–100+ FPS.
-
-![Uploading Gemini_Generated_Image_e8qw77e8qw77e8qw.png…]()
-
+<img width="904" height="947" alt="Gemini_Generated_Image_e8qw77e8qw77e8qw" src="https://github.com/user-attachments/assets/13b4337f-5d4b-4b43-bec7-68addd1e0c56" />
 
 ![9 43 28 AM](https://github.com/user-attachments/assets/54f54e4e-f01e-48a0-ac32-ec0876bc8fde)
 
